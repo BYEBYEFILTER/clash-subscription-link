@@ -201,8 +201,8 @@ proxy-groups:
 
   - name: ♻️ انتخاب خودکار
     type: url-test
-    url: http://google.com
-    interval: 200
+    url: http://www.gstatic.com/generate_204
+    interval: 300
     tolerance: 50
     proxies:
       - https://t.me/BYEBYEFILTER_1
